@@ -1,0 +1,9 @@
+[programs.mainnet]
+kayu_farm = "KAYUFarm11111111111111111111111111111111111"
+
+[provider]
+cluster = "MainnetBeta"
+wallet = "~/.config/solana/id.json"
+
+[scripts]
+deploy = "anchor deploy"
